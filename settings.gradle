@@ -1,2 +1,8 @@
+pluginManagement {
+    repositories {
+        mavenCentral()
+        gradlePluginPortal()  // Обязательно оставьте этот репозиторий!
+    }
+}
 rootProject.name = 'reporting'
 
